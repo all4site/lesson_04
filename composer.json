@@ -1,0 +1,19 @@
+{
+    "name": "kirka/lesson_04",
+    "authors": [
+        {
+            "name": "All4site",
+            "email": "35457395+all4site@users.noreply.github.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.1"
+    },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
